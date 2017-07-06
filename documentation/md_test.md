@@ -1,11 +1,21 @@
 # MD_TEST
 
+### Properties
+Name | Description
+--- | ---
+Author | 
+Created | 
+Current Version | 
 
-- [Constants](#constants)
+
+- [Global Constants](#constants)
 
 
 
-- [MD_EXAMPLE Procedure](#md_example)
+- [md_example Procedure](#md_example)
+
+ 
+
 
 
 
@@ -39,23 +49,8 @@ procedure md_example (i_input   in      number,
                       )
 ```
 
-### Parameters
-Name | Description
---- | ---
-`i_input` | This is the input param for the procedure
-`io_inOut` | This is an in out param for the procedure
-`o_output` | The return param for the procedure
- 
- 
 
 
-
-
-### Properties
-Name | Description
---- | ---
-Author | M Martin
-Created | 2017-Jul-06
 
 
  
